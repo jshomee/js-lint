@@ -1,6 +1,6 @@
 {
   "name": "@jshomee/js-lint",
-  "version": "1.0.149",
+  "version": "1.0.150",
   "description": "Description for js-lint",
   "main": "src/index.js",
   "scripts": {
